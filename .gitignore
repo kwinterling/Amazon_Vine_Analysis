@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Large data file
+amazon_reviews_us_Pet_Products_v1_00.tsv.gz
