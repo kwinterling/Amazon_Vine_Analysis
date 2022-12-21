@@ -1,5 +1,9 @@
 # Amazon_Vine_Analysis
 
+## Note
+
+My AWS database password is visible in the PySpark notebook but I have already deleted the database instance.
+
 ## Overview
 
 The purpose of this analysis is to examine Amazon product review data to determine which reviews are more helpful or reflective of a user's true opinion of a product.
